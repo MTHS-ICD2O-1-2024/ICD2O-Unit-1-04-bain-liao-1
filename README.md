@@ -1,10 +1,10 @@
 # ICS2O
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-04-bain-liao-1/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-04-bain-liao-1/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Deploy Pages](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-04-bain-liao-1/workflows/Deploy%20Pages/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-04-bain-liao-1/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://MTHS-ICD2O-1-2024.github.io/ICD2O-Unit-1-04-bain-liao-1)
 
 ---
 
